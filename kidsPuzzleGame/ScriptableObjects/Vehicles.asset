@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5bf59ebf599d1418bd36fe96ae1501, type: 3}
+  m_Name: Vehicles
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: dbd463ac2dddca44a9f73990aa518a2f, type: 3}
+    answer: aeroplane
+  - questionImage: {fileID: 21300000, guid: 42dcfbd708f4cea4d91b9ff7aec81f7c, type: 3}
+    answer: car
+  - questionImage: {fileID: 21300000, guid: c80a5b1a9d110064095a16566dbdfa7d, type: 3}
+    answer: crane
+  - questionImage: {fileID: 21300000, guid: 16d84f5335ad1a64daf7a259dc89db8f, type: 3}
+    answer: helicopter
+  - questionImage: {fileID: 21300000, guid: 14d92285d860a2742a52d282a0e2ce8c, type: 3}
+    answer: loader
+  - questionImage: {fileID: 21300000, guid: cf41761f15c78eb4e86cb8b0fbe7a884, type: 3}
+    answer: scooter
+  - questionImage: {fileID: 21300000, guid: c4482267f61ecb64ea4778fc2fc672ec, type: 3}
+    answer: ship
+  - questionImage: {fileID: 21300000, guid: 65971d9e1db32574fa0de2c55f3157bf, type: 3}
+    answer: tractor
+  - questionImage: {fileID: 21300000, guid: 9b396642e53cd91428f8dcad49b34c14, type: 3}
+    answer: train
+  - questionImage: {fileID: 21300000, guid: b0290eed978affd4e83b210be797494a, type: 3}
+    answer: van

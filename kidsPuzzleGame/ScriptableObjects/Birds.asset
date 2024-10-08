@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5bf59ebf599d1418bd36fe96ae1501, type: 3}
+  m_Name: Birds
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 2fc15150c71db4445b634202b49ae800, type: 3}
+    answer: crow
+  - questionImage: {fileID: 21300000, guid: d442e978e8c2b5f42abf76b64d1d5c4f, type: 3}
+    answer: penguin
+  - questionImage: {fileID: 21300000, guid: db098ec15daf22b49a41dcfb261cdb45, type: 3}
+    answer: eagle
+  - questionImage: {fileID: 21300000, guid: b43fae6debcc52543a3df4cfe1e2601e, type: 3}
+    answer: hen
+  - questionImage: {fileID: 21300000, guid: 4f5b6c3e45c1fb743984c6601f3ee7b6, type: 3}
+    answer: ostrich
+  - questionImage: {fileID: 21300000, guid: 9c6f624a6935ac349af1ba038a4e8995, type: 3}
+    answer: owl
+  - questionImage: {fileID: 21300000, guid: d9e388765660936429be086c1371b87b, type: 3}
+    answer: parrot
+  - questionImage: {fileID: 21300000, guid: 990d179823a21504e9532bb0f09ba0a3, type: 3}
+    answer: peacock
+  - questionImage: {fileID: 21300000, guid: 4581c2ee12718964a97410366c6577df, type: 3}
+    answer: pegeon
+  - questionImage: {fileID: 21300000, guid: e33a019222b0cc642b3f1ade27c26c32, type: 3}
+    answer: sparrow

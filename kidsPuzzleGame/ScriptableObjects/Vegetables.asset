@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5bf59ebf599d1418bd36fe96ae1501, type: 3}
+  m_Name: Vegetables
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: fce3aa2b8f624c84ab0ad78caf1e4bfa, type: 3}
+    answer: tomato
+  - questionImage: {fileID: 21300000, guid: 10d2b16f928a1d14995f83f56125a6fb, type: 3}
+    answer: pumpkin
+  - questionImage: {fileID: 21300000, guid: 3ca35d064ab1877408ecd6d2651f5a91, type: 3}
+    answer: potato
+  - questionImage: {fileID: 21300000, guid: 8be69152657d58442af0c52f2479599f, type: 3}
+    answer: peas
+  - questionImage: {fileID: 21300000, guid: 78284091636cc4d49ac494edd6cc2b42, type: 3}
+    answer: garlic
+  - questionImage: {fileID: 21300000, guid: 2af7cf9ae97dfd64895a4ae21a1f6c0c, type: 3}
+    answer: cucumber
+  - questionImage: {fileID: 21300000, guid: 5a105d13761653e4daa0d996c4a20375, type: 3}
+    answer: corn
+  - questionImage: {fileID: 21300000, guid: c5a531a58c672a54e9ee0f77adfc35fa, type: 3}
+    answer: chili
+  - questionImage: {fileID: 21300000, guid: 7ec8fdcf3194f04479688ebb11305ccd, type: 3}
+    answer: carrot
+  - questionImage: {fileID: 21300000, guid: e19c95c4c4f47e940aebf21095c8c99b, type: 3}
+    answer: brinjal

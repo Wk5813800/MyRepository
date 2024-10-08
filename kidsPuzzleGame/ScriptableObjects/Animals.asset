@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5bf59ebf599d1418bd36fe96ae1501, type: 3}
+  m_Name: Animals
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 320e904f0381afb46b378445f2fc411a, type: 3}
+    answer: cow
+  - questionImage: {fileID: 21300000, guid: 5e27a1c6adc9742438ddb9d06fa409f1, type: 3}
+    answer: monkey
+  - questionImage: {fileID: 21300000, guid: 4ca6808c2dbc61149b671fb6dda16876, type: 3}
+    answer: girrafe
+  - questionImage: {fileID: 21300000, guid: f33da3b3261efd948b5bd2238003d5dc, type: 3}
+    answer: goat
+  - questionImage: {fileID: 21300000, guid: 8b72006876d9a46409239e93a93d8546, type: 3}
+    answer: horse
+  - questionImage: {fileID: 21300000, guid: a3c8c5e5adbdf484b83432b8db7fe3cf, type: 3}
+    answer: lion
+  - questionImage: {fileID: 21300000, guid: 455b483f1b0145942bfaf9f3050f202e, type: 3}
+    answer: panda
+  - questionImage: {fileID: 21300000, guid: 9b547af381262bc469add92207079d2c, type: 3}
+    answer: rabbit
+  - questionImage: {fileID: 21300000, guid: 2e813debbe9c77547b0a606fb08b1d22, type: 3}
+    answer: tiger
+  - questionImage: {fileID: 21300000, guid: 853b578b99affa24aad68540a54dca34, type: 3}
+    answer: zebra
